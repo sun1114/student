@@ -1,0 +1,5 @@
+﻿  test.cpp
+c:\users\public\documents\c程序\project11\project11\test.cpp(433): warning C4018: “<=”: 有符号/无符号不匹配
+c:\users\public\documents\c程序\project11\project11\test.cpp(462): warning C4018: “<=”: 有符号/无符号不匹配
+c:\users\public\documents\c程序\project11\project11\test.cpp(487): warning C4018: “<=”: 有符号/无符号不匹配
+  Project11.vcxproj -> C:\Users\Public\Documents\C程序\Project11\Debug\Project11.exe
